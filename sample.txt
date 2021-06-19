@@ -1,2 +1,3 @@
 this is my text
 local changes
+cloned text
